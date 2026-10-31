@@ -1,0 +1,4 @@
+# Bundle patch: mount the sidebar-flex entry into the profile.
+- insert:
+    - id: ui-sidebar-flex
+      name: 'dsh-sidebar-flex'
